@@ -1,0 +1,16 @@
+{
+"companyName": "CLASS3",
+"productName": "Practice0428",
+"productVersion": "0.1",
+"dataUrl": "C-sharp.data.unityweb",
+"wasmCodeUrl": "C-sharp.wasm.code.unityweb",
+"wasmFrameworkUrl": "C-sharp.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.3f1"
+}
