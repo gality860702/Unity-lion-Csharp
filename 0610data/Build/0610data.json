@@ -1,0 +1,16 @@
+{
+"companyName": "2Dbdgame",
+"productName": "幼獅2D塔防遊戲",
+"productVersion": "0.1",
+"dataUrl": "0610data.data.unityweb",
+"wasmCodeUrl": "0610data.wasm.code.unityweb",
+"wasmFrameworkUrl": "0610data.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.3f1"
+}
