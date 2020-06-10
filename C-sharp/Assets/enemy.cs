@@ -16,7 +16,7 @@ public class enemy : MonoBehaviour
     //一般方法(非靜態)
     public void Walk()
     {
-        print(name + "走路中...");
+        print(name + "走路中");
     }
 
     //靜態方法
